@@ -1,0 +1,2 @@
+module duoduo.decode.components
+plugin QtQuickQRDecode
